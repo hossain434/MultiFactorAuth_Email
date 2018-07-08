@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11419" started-at="2018-07-08T00:35:50Z" finished-at="2018-07-08T00:36:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11419" started-at="2018-07-08T00:35:50Z" finished-at="2018-07-08T00:36:02Z">
+      <class name="MultiFactorAuth_Email.EmailTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:MultiFactorAuth_Email.EmailTest@ec5a4a]" name="setup" is-config="true" duration-ms="2731" started-at="2018-07-07T17:35:50Z" finished-at="2018-07-07T17:35:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="emailTest()[pri:0, instance:MultiFactorAuth_Email.EmailTest@ec5a4a]" name="emailTest" duration-ms="8669" started-at="2018-07-07T17:35:53Z" finished-at="2018-07-07T17:36:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailTest -->
+      </class> <!-- MultiFactorAuth_Email.EmailTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
